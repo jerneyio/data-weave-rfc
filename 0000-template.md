@@ -53,5 +53,5 @@ Discuss both the good and the bad of existing implementations of this feature, i
 
 # Citations
 [citations]: #citations
-Rust RFC Template: https://github.com/rust-lang/rfcs/blob/master/0000-template.md
-Pony RFC Template: https://github.com/ponylang/rfcs/blob/master/0000-template.md
+* Rust RFC Template: https://github.com/rust-lang/rfcs/blob/master/0000-template.md
+* Pony RFC Template: https://github.com/ponylang/rfcs/blob/master/0000-template.md
